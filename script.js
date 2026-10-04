@@ -32,9 +32,8 @@ sections.forEach(section => spy.observe(section));
 // Typed rotating tagline
 const words = [
   'Computational Biologist',
-  'Postdoctoral Researcher',
-  'Single-Cell Genomics',
-  'Perturb-seq Analyst'
+  'Bioinformatician',
+  'Postdoctoral Researcher'
 ];
 const typedEl = document.getElementById('typed-text');
 let wordIndex = 0;
